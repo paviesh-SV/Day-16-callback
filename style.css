@@ -1,0 +1,19 @@
+/* Styling the DOM */
+body,
+html {
+    background-image: url("https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/800px-Flag_of_India.svg.png?20230723002237");
+    height: 100%;
+}
+
+#count {
+    color: blue;
+    font-size: 100px;
+    text-align: center;
+}
+
+#text {
+    text-align: center;
+    color: blue;
+    font-size: 100px;
+    margin-top: 200px;
+}
